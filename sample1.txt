@@ -1,8 +1,8 @@
 num = 11
-if num % 2 == 0:
-    print("num is odd")
+if num % 2 != 0:
+    print("num is odd")   #3rd commit
 
 
 num = 8
 if num % 2 == 0:
-    print("num is even")
+    print("num is even")   #4th commit
